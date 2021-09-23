@@ -9,8 +9,6 @@ public class p38 {
 			pan[i] = false;
 		}
 		for(long i = 2; i < 10000; i++) {
-			if( i == 9)
-				System.out.println();
 			long res = i;
 			long result = i;
 			int j = 2;
